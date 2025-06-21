@@ -1,4 +1,4 @@
-# LifeLink – Blood Donation Platform
+# LifeLink 
 
 LifeLink is a modern web platform that connects blood donors with those in need, organizes blood donation camps, and provides information about blood compatibility and donation centers. Built with React, Tailwind CSS, Node.js, Express, and MongoDB.
 
